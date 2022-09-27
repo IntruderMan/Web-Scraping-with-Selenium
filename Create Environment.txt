@@ -1,0 +1,20 @@
+# For creating virtualenv
+
+$ virtualenv venv
+$ python3 -m venv venv
+
+$ sudo apt install python3-virtualenv  ##if not there
+
+$ source venv/bin/activate
+
+$ deactivate
+
+$ pip3 list
+
+$ pip3 install selenium
+
+$ pip3 list
+
+$ pip3 freeze > requirments.txt
+
+
